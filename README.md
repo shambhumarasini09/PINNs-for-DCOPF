@@ -1,4 +1,6 @@
-# PINNs for DCOPF
+# Physucs informed Neural Network for solving DCOPF
+
+Combining physics with deep learning
 
 A physics-informed neural network model for approximating DC Optimal Power Flow (DCOPF) on an IEEE 39-bus system. The project generates synthetic load scenarios, builds a dataset from optimization outputs, and trains a PyTorch model to predict optimal dispatch and related dual variables.
 
