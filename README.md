@@ -1,4 +1,4 @@
-# Physucs informed Neural Network for solving DCOPF
+# Physics informed Neural Network for solving DCOPF
 
 Combining physics with deep learning
 
